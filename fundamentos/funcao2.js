@@ -15,3 +15,8 @@ console.log(soma(2,3))
 // Retorno implicito
 const subtracao = (a, b) => a - b
 console.log(subtracao(5,2));
+
+
+const imprimir2 = a => console.log(a);
+imprimir2('Legal!')
+
