@@ -6,7 +6,6 @@ const prod1 = {
 
 
 // factory simples
-
 function criarPessoa() {
     return {
         nome: 'ana',
